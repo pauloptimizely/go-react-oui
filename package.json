@@ -1,0 +1,14 @@
+{
+  "name": "go-react-oui",
+  "version": "0.0.1",
+  "description": "goman react OUI generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "goman": "0.0.2"
+  }
+}

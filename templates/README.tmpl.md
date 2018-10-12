@@ -1,0 +1,7 @@
+# <%= componentName %> 
+
+Example:
+
+```js
+<<%= componentName %> />
+```
